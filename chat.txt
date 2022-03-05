@@ -1,1 +1,2 @@
 sample code for chat app
+day 2 - new code for chat app
